@@ -1,0 +1,44 @@
+h1{
+    color: aqua;
+    text-align: center;
+    background-color: coral;
+    font-size: 35px;
+}
+
+h3 {
+    color: brown;
+    background-color: #777;
+}
+  
+li {
+    
+    padding: 30px;
+    text-align: center;
+    color: forestgreen;
+    width: 100%;
+    list-style-type: disc;
+}
+
+nav {
+    border-bottom: #777;
+    color: darkmagenta;
+}
+
+p{
+  text-align: justify;
+}
+
+li{
+  border: outset;
+  padding: o;
+  text-decoration: none;
+  list-style-type: disc;
+  text-align: left;
+}
+
+img{
+  height: 380px;
+  width: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
